@@ -27,9 +27,9 @@ This is a **binary classification** problem. Five classifiers (Logistic Regressi
 
 ## c. GitHub Repository Link
 
-**Repository:** https://github.com/<your-username>/ml-classification-app
+**Repository:** https://github.com/namingit/bits-ml-assignment-2026.git
 
-**Live Streamlit App:** https://<your-app-name>.streamlit.app
+**Live Streamlit App:** https://cancer-compare-ml.streamlit.app/
 
 ```
 ml-classification-app/
